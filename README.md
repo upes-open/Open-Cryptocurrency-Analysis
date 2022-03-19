@@ -1,4 +1,4 @@
-# Open-Cryptocurrency-Analysis
+## Open-Cryptocurrency-Analysis
 
 Utilizing artificial intelligence to analyze cryptocurrency's
 impact. All the way from scraping data, to data exploration and
