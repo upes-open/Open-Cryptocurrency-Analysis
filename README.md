@@ -21,7 +21,7 @@ performing EDA, to data visualization and hosting.
         │   
         ├── visualizations <- Individual code and Visualization in Jupyter notebook
         │
-        ├── Streamlite      <- Individual code and Visualization dashboards generated for the project
+        ├── Streamlite     <- Individual code and Visualization dashboards generated for the project
         │       
         └── results        <- Folder to store Final analysis and modelling results and code.      
 
